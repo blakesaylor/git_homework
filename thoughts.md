@@ -7,3 +7,5 @@ Calendaring will be necessary for building a balanced and productive schedule wh
 Make sure to budget time for fitness and personal health at least three times a week
 
 Review what I've learned periodically to keep a healthy perspective on where I started and where I am at that time
+
+A quick shoutout to Mike Bonini -- Seems like we keep ending up in the same breakout rooms. Mike has been super helpful by offering a differing perspective / way of thinking than my own, all while being a wonderfully pleasant and nice person.
