@@ -3,3 +3,7 @@ Breakout sessions are great for collaborative work and learning others experienc
 Git is a super helpful tool for tracking changes rather than having a bunch of files named with update dates (file x version 2, file x version 3, etc.)
 
 Calendaring will be necessary for building a balanced and productive schedule while at Turing.
+
+Make sure to budget time for fitness and personal health at least three times a week
+
+Review what I've learned periodically to keep a healthy perspective on where I started and where I am at that time
