@@ -11,5 +11,3 @@ Review what I've learned periodically to keep a healthy perspective on where I s
 A quick shoutout to Mike Bonini -- Seems like we keep ending up in the same breakout rooms. Mike has been super helpful by offering a differing perspective / way of thinking than my own, all while being a wonderfully pleasant and nice person.
 
 Need to do some more reading about how cloning and pushing/pulling from other repositories works.
-
-Add another line to the thoughts file. 
